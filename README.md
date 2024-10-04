@@ -1,4 +1,4 @@
-(https://roadmap.sh/projects/tooltip-ui)
+https://roadmap.sh/projects/tooltip-ui
 
 ![tooltip ui](https://github.com/user-attachments/assets/bbad87a8-d7dc-4a9c-916e-7bf9f5298ccd)
 
